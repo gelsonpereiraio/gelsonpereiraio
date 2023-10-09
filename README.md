@@ -26,7 +26,7 @@
  <img align="center" alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
 <img align="center" alt="Freecodecamp" src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" />
  
-![Snake animation](https://github.com/Gelson Pereira/gelsonpereiraio/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gelsonpereiraio/gelsonpereiraio/blob/output/github-contribution-grid-snake.svg)
   ![Snake animation](https://github.com/gelsonpereira/gelsonpereiraio/blob/output/github-contribution-grid-snake.svg)
 
  
